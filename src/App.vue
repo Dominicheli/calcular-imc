@@ -71,7 +71,7 @@ class="flex-shrink-0 bg-teal-500 border-teal-500 text-sm border-4 text-white py-
             <input
 v-model="calculate.weight" type="text" name="weight"
               class="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
-              placeholder="Exemplo: 1,70">
+              placeholder="Exemplo: 60">
             <div class="flex-shrink-0 bg-teal-500 border-teal-500 text-sm border-4 text-white py-1 px-2 rounded">
               kg
             </div>
